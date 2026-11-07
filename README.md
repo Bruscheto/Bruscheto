@@ -1,5 +1,7 @@
 # Hey, I'm Bruscheto 👋
 
+**[Personal Page](https://diegozhou.com)**
+
 I build useful tools, music projects, and things to play with. Here are a few selected works:
 
 - **[Albert Course Planner](https://chromewebstore.google.com/detail/lndleikbfacmkakhcfflpgnlapoekmoa)** — Plan NYU classes with a visual calendar, conflict checks, and auto-fetched RMP ratings through APIs.
